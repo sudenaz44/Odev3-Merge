@@ -12,3 +12,4 @@ if ortalama >= 50:
     print("Geçtin! Tebrikler 🎉")
 else:
     print("Kaldın amk, seneye tekrar 😭")
+    
