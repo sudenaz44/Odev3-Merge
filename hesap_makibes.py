@@ -13,3 +13,11 @@ if ortalama >= 50:
 else:
     print("Kaldın amk, seneye tekrar 😭")
     
+    
+        cd Masaüstü/Odev3-Merge  # klasör yolun neyse artık
+git init
+git remote add origin https://github.com/sudenaz44/Odev3-Merge.git
+git branch -M main
+git add .
+git commit -m "main branch için başlangıç kodu"
+git push -u origin main
